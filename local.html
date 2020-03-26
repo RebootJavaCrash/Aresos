@@ -32,38 +32,25 @@
       <div class="wow fadeInLeft white-text" style="visibility: visible; animation-name: fadeInLeft;">
       <div class="c-box">
         <center>
-          <h3>Local CensorDodge Proxy</h3>
+          <h3>Local PHP-Proxy</h3>
         </center>
         <center>
-						<form action="" method="get" id="web-search-box" style="transform:scale(1.1)">
+						<form action="./geographic/index.php" method="post" style="transform:scale(1.1)">
 							<p>
-								<input type="text" placeholder="Enter URL" style="border:none;border-radius: 5px;padding:10px;" id="url" name="url" />&nbsp;
+								<input name=url type="text" placeholder="Enter URL" style="border:none;border-radius: 5px;padding:10px;"/>&nbsp;
 								<input type="submit" style="border:none;border-radius: 5px;padding:10px;width:40px;background:#704ea0;color:#fff;font-weight:bold;" value="GO" />
 							</p>
 						</form>
-        </center>
-        <center>
+          </center>
+	  		<center>
           <h4>With this proxy you can:
+            <h6>-View most YouTube videos</h6>
             <h6>-Access a large number of websites with anonymity and with functionality</h6>
-            <h6>-View sites that render improperly with PHP-Proxy</h6>
-            <h6>-Play Unlocked games (ones that aren't DRM-locked to their site)</h6>
-          <p>-Powered by CensorDodge v1.82 Beta</p>
+            <h6>-Hide your activities from the browser history, regardless of whether clearing it is disabled or enabled.</h6>
+          <p>-Powered by PHP-Proxy</p>
         </center>
       </div>
-      <script>
-        function $(id) {
-          return document.getElementById(id);
-        }
-        $('web-search-box').onsubmit = function() {
-          var url = $('url').value;
-          //this is the URL for the server
-          window.location.href = `./geography/worldsearch.php?searchp=${url}`;
-          return false;
-        };
-        window.onload = function() {
-          $('url').focus();
-        }
-      </script>
+
     </div>
   </div>
   </div>
