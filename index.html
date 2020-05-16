@@ -34,8 +34,7 @@
             <div class="row">
               <div class="wow fadeInLeft white-text" style="visibility: visible; animation-name: fadeInLeft;">
                 <h2 class="h2-responsive font-bold mt-sm-2">Aresos Network</h2>
-                <h3 class="h3-responsive font-bold mt-sm-3">MOTD of <p id="date"></p>
-</h3>
+                <h3 class="h3-responsive font-bold mt-sm-3">MOTD of <p id="date"></p></h3>
                 <div class="h6">With Aresos' services, you can browse our selection of alts for the small price of $0.99</div> 
                 <div class="h6">Our staff members are constantly working hard on the website to make it better and easier for the users to have a better experience </div>
                 <h6 class="h6">Use the navigation below to select your destination!</h6>
@@ -44,6 +43,13 @@
                 <a class="btn btn-outline-white waves-effect waves-light" href="Minecraft-Accounts.html">Buy Minecraft Account</a>
                 <a class="btn btn-outline-white waves-effect waves-light" href="bookmarklets.html">About</a>
                 <a class="btn btn-outline-white waves-effect waves-light" href="contact.html">Contact</a>
+                <script>
+n =  new Date();
+y = n.getFullYear();
+m = n.getMonth() + 1;
+d = n.getDate();
+document.getElementById("date").innerHTML = m + "/" + d + "/" + y;
+</script>
               </div>
             </div>
           </div>
