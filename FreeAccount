@@ -1,1 +1,77 @@
+<html class="full-height" lang="en-US">
 
+<head>
+  <title>Aresos - Free MC accounts</title>
+  <link rel="icon" href="https://cdn.discordapp.com/attachments/670064583058128907/711060343845158943/Untitled_7.png">
+  <meta charset="UTF-8">
+  <link href="./css/bootstrap.min.css" rel="stylesheet">
+  <link href="./css/primary.css" rel="stylesheet">
+  <script src="./js/jquery-3.2.1.min.js"></script>
+  <script src="./js/bootstrap.min.js"></script>
+  <script src="./js/main.js"></script>
+  <script src="./js/mdb.min.js"></script>
+</head>
+
+<body>
+  <nav class="navbar white-text navbar-expand-lg navbar-dark fixed-top" id="navbar">
+    <div class="container"><a class="navbar-brand" href="index.html"><strong>Aresos Network</strong></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+      <div class="collapse navbar-collapse" id="navbarContent">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item"><a class="nav-link waves-effect waves-light" href="/">Go Home</a></li>
+          <li class="nav-item"><a class="nav-link waves-effect waves-light" href="./selection2.html">Watch Movies/TV</a></li>
+          <li class="nav-item"><a class="nav-link waves-effect waves-light" href="./contributors.html">Staff </a></li>
+        </ul>
+        
+      </div>
+    </div>
+  </nav>
+<style>
+  .center-screen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+  </style>
+  <html>
+ <head>
+ </head>
+ <body>
+ <div class="center-screen">
+ Buy Minecraft Account
+ </div>
+ </body>
+ </html>
+<style>
+  .center{
+    position:absolute;
+    display:block;
+    height:100px;
+    width:160px;
+    left:48.5%;
+    top:60%;
+    margin-top:-50px;
+    margin-left:-50px;
+    background-color:transparent;
+}
+  </style>
+  <div class="center">
+    <a class="btn btn-outline-white waves-effect waves-light" href="www.aresos.xyz/NotFinished">Error</a>
+</div>
+
+ 
+  </center
+       
+      </div>
+
+    </div>
+  </div>
+  </div>
+  </div>
+</body>
+<script>new WOW().init();</script>
+
+</html>
