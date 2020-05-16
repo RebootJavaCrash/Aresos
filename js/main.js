@@ -174,6 +174,6 @@ document.write( '\n' );
 document.write( '  </div>\n' );
 document.write( '\n' );
 document.write( '  <div class=\"discord-dialog__footer\">\n' );
-document.write( '    <a href=\"https://discord.gg/jGzjrtR" class=\"discord-dialog__btn\">Join now</a>\n' );
+document.write( '    <a href=\"https://discord.gg/SW66Qpd" class=\"discord-dialog__btn\">Join now</a>\n' );
 document.write( '  </div>\n' );
 document.write( '</div>\n' );
