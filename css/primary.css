@@ -59,7 +59,7 @@ body {text-decoration:none }
 /*this right here is the wallpaper for the site, replace with a file or Base64 (preferably)*/
 
   body {
-    background:  url('https://sfwallpaper.com/images/minecraft-background-26.jpg')
+    background:  url('https://sfwallpaper.com/images/minecraft-background-26.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
